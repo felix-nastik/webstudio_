@@ -60,8 +60,27 @@ header {
   .header_right--link {
       transition: .5s;
   }
-  
-  .header_right--link:hover {
-      transition: .5s;
-      color: #2196f3;
+/* 
+  .header_right--side {
+    display: flex;
+    gap: 10px;
+    align-items: center;
   }
+  
+.header_right--side--part:hover svg {
+  fill: #2196f3;
+  transition: .5s;
+}
+
+.header_right--side--part:hover a {
+  color: #2196f3;
+}
+
+.header_right--side--part:hover {
+  cursor: pointer;
+}
+.header_right--side--parts {
+  display: flex;
+    gap: 10px;
+    align-items: center;
+} */

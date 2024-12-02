@@ -3,7 +3,7 @@ main {
 }
 
 .main_first--section {
-  background-color: #2f303a;
+  background-image: url(../images/kkk.png) center/cover no-repeat;
 }
 
 .main_container {
